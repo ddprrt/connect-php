@@ -1,0 +1,31 @@
+{
+  "name": "connect-php",
+  "version": "0.0.1",
+  "main": "lib/connect-php.js",
+  "description": "PHP middleware for https://github.com/senchalabs/connect",
+  "homepage": "https://github.com/ddprrt/connect-php",
+  "bugs": "https://github.com/ddprrt/connect-php/issues",
+  "author": {
+    "name": "Stefan Baumgartner",
+    "email": "sbaumg@gmail.com",
+    "url": "http://www.fettblog.eu"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ddprrt/connect-php"
+  },
+  "dependencies": {
+    "connect": "~2.7.11"
+  },
+  "keywords": ["connect","php","middleware"],
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ],
+  "devDependencies": {
+    "grunt-contrib-jshint": "~0.6.0",
+    "grunt-contrib-nodeunit": "~0.2.0",
+    "grunt-contrib-watch": "~0.5.0"
+  }
+}
