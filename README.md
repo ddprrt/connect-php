@@ -85,7 +85,7 @@ In lieu of a formal styleguide, take care to maintain the existing coding style.
 
 ## Requirements
 
-* [https://github.com/senchalabs/connect](connect) 2.7.11
+* [connect](https://github.com/senchalabs/connect) 2.7.11
 * PHP 5.4.0
 
 ## License
