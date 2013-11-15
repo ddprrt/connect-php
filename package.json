@@ -14,9 +14,6 @@
     "type": "git",
     "url": "https://github.com/ddprrt/connect-php"
   },
-  "dependencies": {
-    "connect": "~2.7.11"
-  },
   "keywords": ["connect","php","middleware"],
   "licenses": [
     {
