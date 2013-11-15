@@ -23,14 +23,14 @@ var connect-php = require('../lib/connect-php.js');
 */
 
 exports['connect-php'] = {
-  setUp: function(done) {
-    // setup here
-    done();
-  },
-  'no args': function(test) {
-    test.expect(1);
-    // tests here
-    //test.equal(connect-php.awesome(), 'awesome', 'should be awesome.');
-    test.done();
-  }
+    setUp: function(done) {
+        // setup here
+        done();
+    },
+    'no args': function(test) {
+        test.expect(1);
+        // tests here
+        //test.equal(connect-php.awesome(), 'awesome', 'should be awesome.');
+        test.done();
+    }
 };
