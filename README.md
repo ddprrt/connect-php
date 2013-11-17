@@ -61,7 +61,7 @@ middleware: function(connect, options) {
     }
     
     // Magic happens here
-    middlewars.push(phpMiddleware(directory));
+    middlewares.push(phpMiddleware(directory));
 
     options.base.forEach(function(base) {
         // Serve static files.
