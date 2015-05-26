@@ -1,6 +1,6 @@
 {
   "name": "connect-php",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "lib/connect-php.js",
   "description": "PHP middleware for https://github.com/senchalabs/connect",
   "homepage": "https://github.com/ddprrt/connect-php",
